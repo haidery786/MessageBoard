@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoard", "MessageBoard\MessageBoard.csproj", "{0727B917-4941-4890-ABF8-5F7745627178}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoard.Test", "MessageBoard.Test\MessageBoard.Test.csproj", "{5375E731-A5BE-4790-87B1-4B9E7788913F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0727B917-4941-4890-ABF8-5F7745627178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0727B917-4941-4890-ABF8-5F7745627178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0727B917-4941-4890-ABF8-5F7745627178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0727B917-4941-4890-ABF8-5F7745627178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5375E731-A5BE-4790-87B1-4B9E7788913F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5375E731-A5BE-4790-87B1-4B9E7788913F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5375E731-A5BE-4790-87B1-4B9E7788913F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5375E731-A5BE-4790-87B1-4B9E7788913F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
